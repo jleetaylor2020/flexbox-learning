@@ -1,0 +1,103 @@
+div.jumbotron.hero-nature {
+    color: #ffdc73;
+    text-align: center;
+    background-size: cover;
+    background-image: url('https://images.pexels.com/photos/38908/man-gym-muscle-fitness-38908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: repeat;
+    display: compact;
+    background-size: 44rem;
+    padding-top: 8em;
+    padding-bottom: 8em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+body {
+    color: white;
+    background-color: #ffbf00;
+    display: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 7em;
+    
+}
+
+h1 {
+   font-size: 4.50em;
+    text-shadow: 4px 4px darkslategrey;
+    font-family: 'Amatic SC', cursive;  
+}
+
+.box-top {
+    background-color: #ffdc73;
+   border: 2px #bf9b30;
+   height: 2em;
+   color: black;
+   font-family: 'Amatic SC', cursive;
+   font-size: 1.25em;
+   width: 55em;
+   display: flex;
+   justify-content: center;
+   position: relative;
+}
+
+.box1-style {
+    background-color: #ffdc73;
+    border: 1px solid #bf9b30;
+    width: 14em;
+    height: 11.5em;
+    padding-top: 2em;
+    padding: right 0em;
+    padding: left 0em;
+    padding-bottom: 1em;
+    margin: 2em;
+    color: black;
+    text-align: center;
+    font-family: 'Oswald'sans-serif;
+    font-size: 1.35em;
+    justify-content: center;
+}
+
+.box2-style {
+    position: -ms-page;
+    background-color:transparent;
+    border: 3px solid#bf9b30;
+    width: 20em;
+    height: 12em;
+    padding-top: 0em;
+    padding: right 0em;
+    padding: left  0em;
+    padding-bottom: 0em;
+    margin: 0em;
+    color: black;
+    text-align: center;
+    font-family: 'Oswald'sans-serif; 
+    font-size: 1.25em;
+ }
+
+ a:hover {
+     border-bottom: 1px solid red;
+     font-weight: 600;
+     font-size: 1.30em;
+     cursor: -webkit-grab;
+ }
+
+ .no-gutters {
+     margin-right: 0;
+     margin-left: 0;
+ }
+
+.body  {
+    padding-bottom: 6em;
+}
+
+.bottom-pic {
+   background-image: url("https://images.pexels.com/photos/703009/pexels-photo-703009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: 30em;
+  background-repeat: no-repeat;
+  display: compact;
+}
